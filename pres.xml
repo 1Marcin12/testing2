@@ -1,0 +1,57 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint"
+ xmlns:oa="urn:schemas-microsoft-com:office:activation">
+ <p:presentation sizeof="screen16x9" slidesizey="3240" gridspacingx="46448"
+  gridspacingy="46448" savewithfonts="t" subsetembed="1">
+  <p:master id="14" slidesn="0,0" type="main" href="master14.htm"
+   xmlhref="master14.xml" template="Slate" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+   </p:schemes>
+  </p:master>
+  <p:master id="15" slidesn="0,0" type="main" href="master15.htm"
+   xmlhref="master15.xml" template="1_Slate" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+   </p:schemes>
+  </p:master>
+  <p:master id="16" slidesn="0,0" type="main" href="master16.htm"
+   xmlhref="master16.xml" template="2_Slate" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+   </p:schemes>
+  </p:master>
+  <p:master id="17" slidesn="0,0" type="main" href="master17.htm"
+   xmlhref="master17.xml" template="3_Slate" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+   </p:schemes>
+  </p:master>
+  <p:master id="18" slidesn="0,0" type="main" href="master18.htm"
+   xmlhref="master18.xml" template="4_Slate" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+   </p:schemes>
+  </p:master>
+  <p:master id="1" slidesn="1DB17AE,4F644000" type="notes" href="master01.htm"
+   layout="notes" slots="header,dateTime,slideImage,body,footer,slideNumber"/>
+  <p:slide id="1" slidesn="0,0" href="slide0001.htm" masterhref="master15.htm"/>
+  <p:slide id="2" slidesn="0,0" href="slide0002.htm" masterhref="master16.htm"/>
+  <p:slide id="3" slidesn="0,0" href="slide0003.htm" masterhref="master16.htm"/>
+  <p:slide id="4" slidesn="0,0" href="slide0004.htm" masterhref="master16.htm"/>
+  <p:slide id="5" slidesn="0,0" href="slide0005.htm" masterhref="master16.htm"/>
+  <p:slide id="6" slidesn="0,0" href="slide0006.htm" masterhref="master16.htm"/>
+  <p:slide id="7" slidesn="0,0" href="slide0007.htm" masterhref="master15.htm"/>
+  <p:viewstate type="slideView" nosnaptogrid="t" restoredleft="156"
+   restoredtop="946" hideoutlineicons="t"/>
+  <p:kinsoku language="Japanese" level="levelOne"/>
+  <p:font name="Arial" charset="0" type="4"/>
+  <p:font name="Times New Roman" charset="0" type="4" family="18"/>
+  <p:font name="Oswald" charset="238" type="4"/>
+  <p:font name="Average" charset="238" type="4"/>
+  <p:pptdocumentsettings framecolors="WhiteTextOnBlack" hideslideanimation="t"
+   browsersupport="v4"/>
+ </p:presentation>
+ <o:shapedefaults v:ext="edit" spidmax="20484"/>
+</xml>

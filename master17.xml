@@ -1,0 +1,46 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint"
+ xmlns:oa="urn:schemas-microsoft-com:office:activation">
+ <p:slidetransition advancetime="0" speed="1" effect="fade" flag="1"/>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="4"/>
+ </o:shapelayout><v:background id="_x0000_s4097" o:bwmode="white" fillcolor="#e0e0e0 [3]">
+  <v:fill color2="#387492 [5]"/>
+ </v:background><p:shaperange id="_x0000_s4098">
+  <v:shapetype id="_x0000_s4098" style='position:absolute;left:24.5pt;top:35pt;
+   width:671pt;height:45.125pt;visibility:visible;mso-wrap-style:square;
+   v-text-anchor:top' coordsize="21600,21600" o:master="" o:spt="202" path="m,l,21600r21600,l21600,xe"
+   filled="f" stroked="f">
+   <v:fill o:detectmouseclick="t"/>
+   <v:stroke joinstyle="miter" o:forcedash="t"/>
+   <v:path arrowok="t" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" grouping="t"/>
+   <v:textbox style='mso-rotate-with-shape:t' inset="2.53958mm,2.53958mm,2.53958mm,2.53958mm"/>
+   <p:placeholder type="title"/>
+  </v:shapetype></p:shaperange>
+ <p:shaperange id="_x0000_s4099">
+  <v:shapetype id="_x0000_s4099" style='position:absolute;left:24.5pt;top:90.75pt;
+   width:671pt;height:269pt;visibility:visible;mso-wrap-style:square;
+   v-text-anchor:top' coordsize="21600,21600" o:master="" o:spt="202" path="m,l,21600r21600,l21600,xe"
+   filled="f" stroked="f">
+   <v:fill o:detectmouseclick="t"/>
+   <v:stroke joinstyle="miter" o:forcedash="t"/>
+   <v:path arrowok="t" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" grouping="t"/>
+   <v:textbox style='mso-rotate-with-shape:t' inset="2.53958mm,2.53958mm,2.53958mm,2.53958mm"/>
+   <p:placeholder type="body" position="1"/>
+  </v:shapetype></p:shaperange>
+ <p:shaperange id="_x0000_s4100">
+  <v:shapetype id="_x0000_s4100" style='position:absolute;left:668.5pt;top:368.625pt;
+   width:43.25pt;height:31pt;visibility:visible;mso-wrap-style:square;
+   v-text-anchor:middle' coordsize="21600,21600" o:master="" o:spt="202"
+   path="m,l,21600r21600,l21600,xe" filled="f" stroked="f">
+   <v:fill o:detectmouseclick="t"/>
+   <v:stroke joinstyle="miter" o:forcedash="t"/>
+   <v:path arrowok="t" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" grouping="t"/>
+   <v:textbox style='mso-rotate-with-shape:t' inset="2.53958mm,2.53958mm,2.53958mm,2.53958mm"/>
+   <p:placeholder type="slideNumber" position="4"/>
+  </v:shapetype></p:shaperange>
+</xml>

@@ -1,0 +1,448 @@
+body
+	{width:534px;
+	height:300px;}
+.TB
+	{mso-special-format:nobullet•;
+	color:black;
+	font-family:Arial;}
+.T
+	{text-align:left;
+	font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;}
+.BB
+	{mso-special-format:bullet•;
+	color:black;
+	font-family:Arial;}
+.B
+	{text-align:left;
+	font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;
+	mso-line-spacing:"100 0 0";}
+.B1B
+	{mso-special-format:bullet–;
+	color:black;
+	font-family:Arial;}
+.B1
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;
+	mso-line-spacing:"100 0 0";}
+.B2B
+	{mso-special-format:bullet•;
+	color:black;
+	font-family:Arial;}
+.B2
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;
+	mso-line-spacing:"100 0 0";}
+.B3B
+	{mso-special-format:bullet–;
+	color:black;
+	font-family:Arial;}
+.B3
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;
+	mso-line-spacing:"100 0 0";}
+.B4B
+	{mso-special-format:bullet»;
+	color:black;
+	font-family:Arial;}
+.B4
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;
+	mso-line-spacing:"100 0 0";}
+.NB
+	{mso-special-format:nobullet•;
+	color:black;
+	font-family:Arial;}
+.N
+	{text-align:left;
+	font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;
+	mso-line-spacing:"100 0 0";
+	mso-margin-left-alt:288;
+	mso-text-indent-alt:100;}
+.N1B
+	{mso-special-format:nobullet•;
+	color:black;
+	font-family:Arial;}
+.N1
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;
+	mso-line-spacing:"100 0 0";
+	mso-margin-left-alt:468;}
+.N2B
+	{mso-special-format:nobullet•;
+	color:black;
+	font-family:Arial;}
+.N2
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;
+	mso-line-spacing:"100 0 0";
+	mso-margin-left-alt:720;}
+.N3B
+	{mso-special-format:nobullet•;
+	color:black;
+	font-family:Arial;}
+.N3
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;
+	mso-line-spacing:"100 0 0";
+	mso-margin-left-alt:1008;}
+.N4N
+	{mso-special-format:nobullet•;
+	color:black;
+	font-family:Arial;}
+.N4
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;
+	mso-line-spacing:"100 0 0";
+	mso-margin-left-alt:1296;}
+.OB
+	{mso-special-format:nobullet•;
+	color:black;
+	font-family:Arial;}
+.O
+	{text-align:left;
+	font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;}
+.O1B
+	{mso-special-format:nobullet•;
+	color:black;
+	font-family:Arial;}
+.O1
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;}
+.O2B
+	{mso-special-format:nobullet•;
+	color:black;
+	font-family:Arial;}
+.O2
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;}
+.O3B
+	{mso-special-format:nobullet•;
+	color:black;
+	font-family:Arial;}
+.O3
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;}
+.O4B
+	{mso-special-format:nobullet•;
+	color:black;
+	font-family:Arial;}
+.O4
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;}
+.CBB
+	{mso-special-format:nobullet•;
+	color:black;
+	font-family:Arial;}
+.CB
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;
+	mso-line-spacing:"100 0 0";}
+.CB1B
+	{mso-special-format:nobullet–;
+	color:black;
+	font-family:Arial;}
+.CB1
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;
+	mso-line-spacing:"100 0 0";}
+.CB2B
+	{mso-special-format:nobullet•;
+	color:black;
+	font-family:Arial;}
+.CB2
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;
+	mso-line-spacing:"100 0 0";}
+.CB3B
+	{mso-special-format:nobullet–;
+	color:black;
+	font-family:Arial;}
+.CB3
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;
+	mso-line-spacing:"100 0 0";}
+.CB4B
+	{mso-special-format:nobullet»;
+	color:black;
+	font-family:Arial;}
+.CB4
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;
+	mso-line-spacing:"100 0 0";}
+.CTB
+	{mso-special-format:nobullet•;
+	color:black;
+	font-family:Arial;}
+.CT
+	{text-align:left;
+	font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:66%;}
+.HBB
+	{mso-special-format:bullet•;
+	color:black;
+	font-family:Arial;}
+.HB
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:57%;
+	mso-line-spacing:"100 0 0";}
+.HB1B
+	{mso-special-format:bullet–;
+	color:black;
+	font-family:Arial;}
+.HB1
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:57%;
+	mso-line-spacing:"100 0 0";}
+.HB2B
+	{mso-special-format:bullet•;
+	color:black;
+	font-family:Arial;}
+.HB2
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:57%;
+	mso-line-spacing:"100 0 0";}
+.HB3B
+	{mso-special-format:bullet–;
+	color:black;
+	font-family:Arial;}
+.HB3
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:57%;
+	mso-line-spacing:"100 0 0";}
+.HB4B
+	{mso-special-format:bullet»;
+	color:black;
+	font-family:Arial;}
+.HB4
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:57%;
+	mso-line-spacing:"100 0 0";}
+.QBB
+	{mso-special-format:bullet•;
+	color:black;
+	font-family:Arial;}
+.QB
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:47%;
+	mso-line-spacing:"100 0 0";}
+.QB1B
+	{mso-special-format:bullet–;
+	color:black;
+	font-family:Arial;}
+.QB1
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:47%;
+	mso-line-spacing:"100 0 0";}
+.QB2B
+	{mso-special-format:bullet•;
+	color:black;
+	font-family:Arial;}
+.QB2
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:47%;
+	mso-line-spacing:"100 0 0";}
+.QB3B
+	{mso-special-format:bullet–;
+	color:black;
+	font-family:Arial;}
+.QB3
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:47%;
+	mso-line-spacing:"100 0 0";}
+.QB4B
+	{mso-special-format:bullet»;
+	color:black;
+	font-family:Arial;}
+.QB4
+	{font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	color:black;
+	font-size:47%;
+	mso-line-spacing:"100 0 0";}
+.defaultB
+	{mso-special-format:nobullet•;}
+.default
+	{text-align:left;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none;
+	text-shadow:none;
+	text-effect:none;
+	mso-fareast-hint:no;
+	layout-flow:horizontal;
+	color:black;
+	font-size:66%;
+	mso-text-raise:0%;
+	mso-line-spacing:"100 0 0";
+	mso-margin-left-alt:0;
+	mso-text-indent-alt:0;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;
+	direction:ltr;
+	mso-word-wrap:1;
+	mso-vertical-align-special:baseline;}
+a:link
+	{color:#FFD966 !important;}
+a:active
+	{color:#387492 !important;}
+a:visited
+	{color:#FFD966 !important;}
+@font-face
+	{font-family:Oswald;
+	font-style:normal;
+	font-weight:normal;
+	mso-font-charset:238;
+	mso-font-format:4;
+	mso-generic-font-family:0;
+	src:url("font008.eot");}
+@font-face
+	{font-family:Oswald;
+	font-style:normal;
+	font-weight:bold;
+	mso-font-charset:238;
+	mso-font-format:4;
+	mso-generic-font-family:0;
+	src:url("font009.eot");}
+@font-face
+	{font-family:Average;
+	font-style:normal;
+	font-weight:normal;
+	mso-font-charset:238;
+	mso-font-format:4;
+	mso-generic-font-family:0;
+	src:url("font012.eot");}
